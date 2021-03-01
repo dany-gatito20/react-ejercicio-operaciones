@@ -1,0 +1,23 @@
+*{ /* Estilo para todo el documento */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{ /* Estilo para el body ( cuerpo ) de mi aplicacion */
+    padding: 60px;
+}
+
+input{ /* Estilo a los input ( Cajas de Texto ) */
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    width: 200px;
+}
+
+.boton{
+    background: #005EC7;
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
